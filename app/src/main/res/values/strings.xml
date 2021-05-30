@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Game Rate List</string>
+
+    <string name="image_description">Image</string>
+
+    <string name="text_game_name">Name: </string>
+    <string name="text_game_rating">Rating: </string>
+    <string name="text_game_rating_count">Ratings Count: </string>
+    <string name="text_game_released">Released: </string>
+    <string name="text_game_playtime">Playtime (Hour): </string>
+    <string name="text_game_metacritic">Metacritic: </string>
+
+    <string name="text_none">None</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_detail">Game Rate Detail</string>
+    <string name="menu_maps">Game Store Location</string>
+
+    <string name="page_empty">Empty data</string>
+    <string name="page_error">Something went wrong....</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="title_maps">Maps</string>
+
+</resources>
