@@ -2,7 +2,7 @@
 version: 2.1
 # Use a package of configuration called an orb.
 orbs:
-  circleci/welcome-orb@0.4.1
+  android: circleci/android@0.2.1
   # Declare a dependency on the welcome-orb
   # welcome:
 
